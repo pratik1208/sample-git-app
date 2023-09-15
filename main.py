@@ -7,3 +7,6 @@ with col1:
     st.image('images.png')
 with col2:
     st.header('I love quotes')
+
+st.header('Courses')
+st.sidebar.title('menu')
