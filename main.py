@@ -10,3 +10,6 @@ with col2:
 
 st.header('Courses')
 st.sidebar.title('menu')
+st.subheader("DSA")
+st.subheader("DBMS")
+st.subheader("DSMP")
