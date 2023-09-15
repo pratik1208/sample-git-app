@@ -25,3 +25,6 @@ st.sidebar.markdown("""
 
 st.sidebar.selectbox('Select one',['teacher','student'])
 st.sidebar.button('select')
+
+
+st.title('Hello Teacher')
