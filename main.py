@@ -13,3 +13,10 @@ st.sidebar.title('menu')
 st.subheader("DSA")
 st.subheader("DBMS")
 st.subheader("DSMP")
+
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+"""
+)
